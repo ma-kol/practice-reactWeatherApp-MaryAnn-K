@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.loading {
+  color: red;
+  font-size: large;
+}
+
+.forecast-details {
+  border: 2px white;
+  border-style: dashed;
+  padding: 15px;
+  margin-top: 25px;
+}
+
+.app-title {
+  color: burlywood;
+}
